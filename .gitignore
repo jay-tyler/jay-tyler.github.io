@@ -9,3 +9,7 @@ lib/*
 
 # Swap files
 *.swp
+
+# Pelican
+output/*
+pip-selfcheck.json
