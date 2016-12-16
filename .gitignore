@@ -13,3 +13,4 @@ lib/*
 # Pelican
 output/*
 pip-selfcheck.json
+pelican-theme/*
