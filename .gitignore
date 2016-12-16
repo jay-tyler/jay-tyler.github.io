@@ -1,0 +1,11 @@
+# venv excludes
+bin/*
+include/*
+lib/*
+*pyvenv.cfg
+
+# Python
+*.pyc
+
+# Swap files
+*.swp
